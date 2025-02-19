@@ -1,0 +1,2 @@
+## Carousel e Cards (Bootstrap)
+Atividade prática para aplicar conhecimentos em Bootstrap, utilizando o carousel de imagens e cards, com layout responsivo adaptável a diferentes dispositivos. O conteúdo é fictício e utilizado sob licença livre.
